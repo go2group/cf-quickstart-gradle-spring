@@ -24,6 +24,6 @@ spec:
       revision: '${{CF_BRANCH}}'
   specTemplate:
     location: git
-    repo: 'OWNERTOKEN/REPOTOKEN'
+    repo: 'go2group/cf-quickstart-gradle-spring'
     path: ./codefresh-package-only.yml
     context: github
