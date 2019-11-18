@@ -1,7 +1,7 @@
 version: '1.0'
 kind: pipeline
 metadata:
-  name: QuickStartGradleSpring
+  name: cf-quickstart-gradle-spring
 spec:
   triggers:
     - name: OWNERTOKEN/REPOTOKEN
